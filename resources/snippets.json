@@ -402,13 +402,13 @@
     "preview": "resources/assets/snippets/More-Visible-Unplayable-Tracks"
   },
   {
-    "title": "[Global Nav Bar] remove scrolling overflow",
+    "title": "[Global Nav Bar] Remove scrolling overflow",
     "description": "Removes the max visible width restrictions of the 'sidebar' items. Useful if you have more than the scrolling limit but not as much that it will overflow with the searchbar",
     "code": ".custom-navlinks-scrollable_container{max-width: unset!important}",
     "preview": "resources/assets/snippets/glob-nav-max-items.png"
   },
   {
-    "title": "[Global Nav Bar] marketplace header margin fix",
+    "title": "[Global Nav Bar] Marketplace header margin fix",
     "description": "Global Nav Bar breaks the margin for certain themes, this removes the standard margin, and sets it back to 0",
     "code": "div.marketplace-header:has(.marketplace-header__left .marketplace-sortBox-header){margin-top:unset;}",
     "preview": "resources/assets/snippets/glob-nav-mrktplc-margin.png"
